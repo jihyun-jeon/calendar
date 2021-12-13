@@ -1,0 +1,17 @@
+.isWeekend {
+  color: red;
+}
+.isHoliday {
+  color: blue;
+  font-weight: bolder;
+}
+.isOther {
+  color: gray;
+}
+
+.calendar {
+  margin: 22px 11px;
+  padding: 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+}
