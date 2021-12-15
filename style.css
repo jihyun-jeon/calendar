@@ -1,5 +1,6 @@
 .isWeekend {
   color: red;
+  font-style: italic;
 }
 /*dddd*/
 .isHoliday {
