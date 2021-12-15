@@ -3,7 +3,7 @@
 }
 /*dddd*/
 .isHoliday {
-  color: yellowgreen;
+  color: yellow;
   font-weight: bolder;
 }
 .isOther {
@@ -15,4 +15,5 @@
   padding: 10px;
   display: inline-block;
   border: 1px solid #ccc;
+  background-color: whitesmoke;
 }
