@@ -14,7 +14,7 @@
 .calendar {
   margin: 22px 11px;
   padding: 10px;
-  display: inline-block;
+  display: block;
   border: 1px solid #ccc;
   background-color: whitesmoke;
 }
